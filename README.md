@@ -1,2 +1,3 @@
 # fizzbuzz-scala
-Fizz Buzz in Scala
+
+My functional attempt at Fizz Buzz in Scala.
